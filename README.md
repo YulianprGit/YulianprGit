@@ -30,7 +30,7 @@ I am a Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time, ... and make...
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-m-690b3729)
+- :mailbox:How to reach me: 
 
 ---
 
@@ -42,7 +42,7 @@ I am a Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefreerangetester" alt="thefreerangetester" /></a> </p>
+
 <div align="center">  
   <img src="http://github-readme-streak-stats.herokuapp.com?user=thefreerangetester&theme=dark&background=000000" width="600"/>
 </div>
